@@ -1,0 +1,6 @@
+fuel	co2_intensity	upstream_co2_intensity	f_rps_eligible
+Coal	0.096	0	0
+Diesel	0.073	0	0
+Gas	0.053	0	0
+Biogas	0.5306	-0.5306	1
+Biomass	0.09435	-0.09435	1
