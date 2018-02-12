@@ -1,0 +1,4 @@
+Este caso tiene una curva de costos que es proporcional a la curva de costos de PV Industrial 
+fijada en la base de datos de Rodrigo Mena, sin embargo, el costo de generación distribuida 
+parte en 1,5 USD/W. Este valor inicial fue fijado observando el informe de la CNE de generación distribuida
+en Chile (se lo mandé a Nico).
