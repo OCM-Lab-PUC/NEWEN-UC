@@ -1,0 +1,22 @@
+# Core Modules
+### begin core modules ###
+switch_model
+switch_model.timescales
+switch_model.financials
+switch_model.balancing.load_zones
+switch_model.energy_sources.properties
+switch_model.generators.core.build
+switch_model.generators.core.dispatch
+switch_model.reporting
+### end core modules ###
+# Custom Modules
+switch_model.generators.core.gen_discrete_build
+switch_model.transmission.transport.build
+switch_model.transmission.transport.dispatch
+switch_model.energy_sources.fuel_costs.simple
+switch_model.generators.extensions.hydro_system
+switch_model.generators.core.convexhullcommit.operate
+switch_model.generators.core.convexhullcommit.fuel_use
+switch_model.balancing.planning_reserves_commit
+switch_model.policies.carbon_policies
+switch_model.balancing.desaladoras
